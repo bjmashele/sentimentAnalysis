@@ -1,0 +1,7 @@
+LICENSE
+README.md
+pyproject.toml
+src/sentimentanalysis.egg-info/PKG-INFO
+src/sentimentanalysis.egg-info/SOURCES.txt
+src/sentimentanalysis.egg-info/dependency_links.txt
+src/sentimentanalysis.egg-info/top_level.txt

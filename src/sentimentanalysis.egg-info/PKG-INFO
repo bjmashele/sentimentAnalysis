@@ -1,0 +1,12 @@
+Metadata-Version: 2.4
+Name: sentimentanalysis
+Version: 0.1.0
+Summary: Add your description here
+Requires-Python: >=3.12
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Dynamic: license-file
+
+README
+Repo for building structure  for a real productioin system Machine Learning (ML). The project has a scallable source directory structure.
+,layered configuration, environment management, logging, and a FastAPI service that exposes your model through robust API routes.
